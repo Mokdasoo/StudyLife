@@ -1,0 +1,10 @@
+.form-control{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.form-control__inner{
+    width: 40rem;
+    background-color: white;
+    text-align: center;
+}
