@@ -1,0 +1,2 @@
+(this["webpackJsonpreact-router-6-upgrade"]=this["webpackJsonpreact-router-6-upgrade"]||[]).push([[6],{48:function(e,r,t){"use strict";t.r(r);var c=t(2);r.default=function(){return Object(c.jsx)("div",{className:"centered",children:Object(c.jsx)("p",{children:"Page not found!"})})}}}]);
+//# sourceMappingURL=6.869c0b8b.chunk.js.map
