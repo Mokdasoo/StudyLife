@@ -1,9 +1,9 @@
 {
   "expo": {
-    "name": "minigame-practice",
-    "slug": "minigame-practice",
+    "name": "navigation-food-app",
+    "slug": "navigation-food-app",
     "version": "1.0.0",
-    "orientation": "default",
+    "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
