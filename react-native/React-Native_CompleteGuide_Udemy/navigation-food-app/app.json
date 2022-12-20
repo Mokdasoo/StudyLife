@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "navigation-food-app",
+    "name": "DG Recipe Book",
     "slug": "navigation-food-app",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -19,16 +19,33 @@
       "**/*"
     ],
     "ios": {
+      "bulidNumber": "1.0.0",
       "supportsTablet": true
     },
     "android": {
+      "versionCode": 1,
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.mokdasoo.myrecipebook"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "65d2d4b8-a2c7-421b-9402-3eee61c8c240"
+      }
+    },
+    "plugins": [
+      [
+        "expo-notifications",
+        {
+          "icon": "./local/assets/icon.png",
+          "color": "#ffffff"
+        }
+      ]
+    ]
   }
 }
